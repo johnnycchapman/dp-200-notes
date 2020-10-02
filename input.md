@@ -2,4 +2,4 @@
 
 This is my text.
 
-#### Microsoft Docs [docs.microsoft.com]
+#### [Microsoft Docs](https://docs.microsoft.com)
